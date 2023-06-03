@@ -1,0 +1,18 @@
+[
+    {
+        "status": true,
+        "_id": "601ba7155fd0694da758350d",
+        "state_name": "Kerala",
+        "state_code": 32,
+        "description": "Kerala\n",
+        "__v": 0
+    },
+    {
+        "status": true,
+        "_id": "601ba7075fd0694da7583509",
+        "state_name": "Tamil Nadu",
+        "state_code": 33,
+        "description": "TN",
+        "__v": 0
+    }
+]

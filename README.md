@@ -1,1 +1,2 @@
-# e-shopping
+# tdkart
+This is the online shopping application

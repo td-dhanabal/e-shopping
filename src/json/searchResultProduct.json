@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "600c05c442080e4969130d53",
+        "description": "test",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 24750,
+        "key_points": [
+            "sdfsdf"
+        ],
+        "discount_percentage": 1,
+        "image": "./img/1611823599835.jpeg"
+    }
+]

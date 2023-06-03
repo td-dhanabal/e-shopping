@@ -1,0 +1,122 @@
+[
+    {
+        "address": [
+            "sdsadsad"
+        ],
+        "delivery": false,
+        "_id": "601cf2913e47cc15a76a29f0",
+        "user": "6013ce0291ea9c2de458afef",
+        "name": "Suresh",
+        "mobile_no": 19569856,
+        "pincode": 641020,
+        "state": {
+            "_id": "601ba7075fd0694da7583509",
+            "state_name": "Tamil Nadu"
+        },
+        "city": "Coimbatores",
+        "__v": 1
+    },
+    {
+        "address": [
+            "2nd floor sks building",
+            "Bangalore"
+        ],
+        "delivery": false,
+        "_id": "601cf4ec35498e1d29e47aa9",
+        "user": "6013ce0291ea9c2de458afef",
+        "name": "dhanabal t",
+        "mobile_no": 9843399000,
+        "pincode": 641308,
+        "state": {
+            "_id": "601ba7075fd0694da7583509",
+            "state_name": "Tamil Nadu"
+        },
+        "city": "Coimbatore",
+        "__v": 0
+    },
+    {
+        "address": [
+            "Bangalore"
+        ],
+        "delivery": false,
+        "_id": "6020e2acfbfdac3e6eaa6693",
+        "user": "6013ce0291ea9c2de458afef",
+        "name": "Kavin",
+        "mobile_no": 1956985685,
+        "pincode": 641025,
+        "state": {
+            "_id": "601ba7075fd0694da7583509",
+            "state_name": "Tamil Nadu"
+        },
+        "city": "coimbatoresa",
+        "__v": 1
+    },
+    {
+        "address": [
+            "Bangalore"
+        ],
+        "delivery": false,
+        "_id": "60210a95fbfdac3e6eaa6739",
+        "user": "6013ce0291ea9c2de458afef",
+        "name": "Ramesh",
+        "mobile_no": 195698561,
+        "pincode": 641028,
+        "state": {
+            "_id": "601ba7075fd0694da7583509",
+            "state_name": "Tamil Nadu"
+        },
+        "city": "coimbatores",
+        "__v": 1
+    },
+    {
+        "address": [
+            "Bangalore"
+        ],
+        "delivery": false,
+        "_id": "60210a96fbfdac3e6eaa673b",
+        "user": "6013ce0291ea9c2de458afef",
+        "name": "Sanjeev",
+        "mobile_no": 1956985611,
+        "pincode": 6410203,
+        "state": {
+            "_id": "601ba7075fd0694da7583509",
+            "state_name": "Tamil Nadu"
+        },
+        "city": "coimbatore1s",
+        "__v": 2
+    },
+    {
+        "address": [
+            "Bangalore"
+        ],
+        "delivery": false,
+        "_id": "60210b43fbfdac3e6eaa6762",
+        "user": "6013ce0291ea9c2de458afef",
+        "name": "Prakash",
+        "mobile_no": 19569856,
+        "pincode": 641020,
+        "state": {
+            "_id": "601ba7155fd0694da758350d",
+            "state_name": "Kerala"
+        },
+        "city": "coimbatore",
+        "__v": 0
+    },
+    {
+        "address": [
+            "Bangalore"
+        ],
+        "delivery": false,
+        "_id": "60210b4afbfdac3e6eaa6764",
+        "user": "6013ce0291ea9c2de458afef",
+        "name": "Arun",
+        "mobile_no": 1956985685,
+        "pincode": 641025,
+        "state": {
+            "_id": "601ba7075fd0694da7583509",
+            "state_name": "Tamil Nadu"
+        },
+        "city": "coimbatoresa",
+        "__v": 1
+    }
+]

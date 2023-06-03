@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tdkart/static/css/main.de9e2ceb.chunk.css",
+    "main.js": "/tdkart/static/js/main.62f118d4.chunk.js",
+    "main.js.map": "/tdkart/static/js/main.62f118d4.chunk.js.map",
+    "runtime-main.js": "/tdkart/static/js/runtime-main.926e30e6.js",
+    "runtime-main.js.map": "/tdkart/static/js/runtime-main.926e30e6.js.map",
+    "static/js/2.80f21620.chunk.js": "/tdkart/static/js/2.80f21620.chunk.js",
+    "static/js/2.80f21620.chunk.js.map": "/tdkart/static/js/2.80f21620.chunk.js.map",
+    "static/js/3.26ad0c70.chunk.js": "/tdkart/static/js/3.26ad0c70.chunk.js",
+    "static/js/3.26ad0c70.chunk.js.map": "/tdkart/static/js/3.26ad0c70.chunk.js.map",
+    "index.html": "/tdkart/index.html",
+    "static/css/main.de9e2ceb.chunk.css.map": "/tdkart/static/css/main.de9e2ceb.chunk.css.map",
+    "static/js/2.80f21620.chunk.js.LICENSE.txt": "/tdkart/static/js/2.80f21620.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.926e30e6.js",
+    "static/js/2.80f21620.chunk.js",
+    "static/css/main.de9e2ceb.chunk.css",
+    "static/js/main.62f118d4.chunk.js"
+  ]
+}

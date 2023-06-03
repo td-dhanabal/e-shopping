@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "60097e6169a6c37fed25b0a0",
+        "description": "Samsung M31",
+        "status": true,
+        "mrp": 20000,
+        "selling_price": 16000,
+        "key_points": [
+            "6 GB RAM | 32 GB ROM",
+            "17.32 cm (6.82 inch) HD+ Display",
+            "13MP + Depth Sensor | 8MP Front Camera",
+            "6000 mAh Li-ion Polymer Battery",
+            "MediaTek Helio G90 Processor"
+        ],
+        "discount_percentage": 20,
+        "image": "./img/1612174137668.png"
+    },
+    {
+        "_id": "600c05a442080e4969130d35",
+        "description": "Samsung M31",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 20000,
+        "key_points": [
+            "6 GB RAM | 32 GB ROM",
+            "17.32 cm (6.82 inch) HD+ Display",
+            "13MP + Depth Sensor | 8MP Front Camera",
+            "6000 mAh Li-ion Polymer Battery",
+            "MediaTek Helio G90 Processor"
+        ],
+        "discount_percentage": 20,
+        "image": "./img/1612174251952.png"
+    },
+    {
+        "_id": "600c05aa42080e4969130d3b",
+        "description": "Samsung F21",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 22000,
+        "key_points": [
+            "sdfsdf",
+            "17.32 cm (6.82 inch) HD+ Display",
+            "13MP + Depth Sensor | 8MP Front Camera",
+            "6000 mAh Li-ion Polymer Battery",
+            "MediaTek Helio G90 Processor"
+        ],
+        "discount_percentage": 12,
+        "image": "./img/1612174514539.jpeg"
+    },
+    {
+        "_id": "600c05b442080e4969130d41",
+        "description": "M41",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 20000,
+        "key_points": [
+            "sdfsdf"
+        ],
+        "discount_percentage": 20,
+        "image": "./img/1611823567485.jpeg"
+    },
+    {
+        "_id": "600c05b742080e4969130d47",
+        "description": "M51",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 20000,
+        "key_points": [
+            "sdfsdf"
+        ],
+        "discount_percentage": 20,
+        "image": "./img/1611823579018.jpeg"
+    },
+    {
+        "_id": "600c05be42080e4969130d4d",
+        "description": "M71",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 20000,
+        "key_points": [
+            "sdfsdf"
+        ],
+        "discount_percentage": 20,
+        "image": "./img/1611823589908.jpeg"
+    },
+    {
+        "_id": "600c05c442080e4969130d53",
+        "description": "test",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 24750,
+        "key_points": [
+            "sdfsdf"
+        ],
+        "discount_percentage": 1,
+        "image": "./img/1611823599835.jpeg"
+    },
+    {
+        "_id": "600c05c742080e4969130d59",
+        "description": "tttt",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 24750,
+        "key_points": [
+            "sdfsdf"
+        ],
+        "discount_percentage": 1,
+        "image": "./img/1611823613305.jpeg"
+    },
+    {
+        "_id": "600c05ca42080e4969130d5f",
+        "description": "eee",
+        "status": true,
+        "mrp": 25000,
+        "selling_price": 20000,
+        "key_points": [
+            "sdfsdf"
+        ],
+        "discount_percentage": 20,
+        "image": "./img/1611823625429.jpeg"
+    }
+]

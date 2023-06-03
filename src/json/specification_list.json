@@ -1,0 +1,27 @@
+[
+    {
+        "_id": "Internal Memory",
+        "option": [
+            "256 GB"
+        ]
+    },
+    {
+        "_id": "OS",
+        "option": [
+            "android "
+        ]
+    },
+    {
+        "_id": "Ram",
+        "option": [
+            "6 GB",
+            "8 GB"
+        ]
+    },
+    {
+        "_id": "Screen Size",
+        "option": [
+            "6 Inch"
+        ]
+    }
+]

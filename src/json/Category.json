@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "60091f8765bc06327a6a2259",
+        "category_name": "Electronic",
+        "parent": "",
+        "status": true,
+        "image": "https://rukminim1.flixcart.com/flap/128/128/image/0ff199d1bd27eb98.png?q=100",
+        "productsCount": 0,
+        "hasChild": true
+    },
+    {
+        "_id": "60091f9865bc06327a6a225d",
+        "category_name": "Mobile",
+        "parent": "60091f8765bc06327a6a2259",
+        "status": true,
+        "image": "https://rukminim1.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100",
+        "productsCount": 8,
+        "hasChild": false
+    },
+    {
+        "_id": "60092d31916b8c40fcb65c9e",
+        "category_name": "Home Appliances",
+        "parent": "",
+        "status": true,
+        "image": "https://rukminim1.flixcart.com/flap/128/128/image/0ff199d1bd27eb98.png?q=100",
+        "productsCount": 0,
+        "hasChild": true
+    },
+    {
+        "_id": "60092d49916b8c40fcb65ca0",
+        "category_name": "groceries",
+        "parent": "",
+        "status": true,
+        "image": "https://rukminim1.flixcart.com/flap/128/128/image/29327f40e9c4d26b.png?q=100",
+        "productsCount": 0,
+        "hasChild": false
+    },
+    {
+        "_id": "60092dac916b8c40fcb65cc2",
+        "category_name": "Washing Machine",
+        "parent": "60092d31916b8c40fcb65c9e",
+        "status": true,
+        "productsCount": 0,
+        "hasChild": true
+    },
+    {
+        "_id": "60092db3916b8c40fcb65cc4",
+        "category_name": "Top Loaded",
+        "parent": "60092dac916b8c40fcb65cc2",
+        "status": true,
+        "productsCount": 0,
+        "hasChild": false
+    },
+    {
+        "_id": "60092db7916b8c40fcb65cc6",
+        "category_name": "Front Loaded",
+        "parent": "60092dac916b8c40fcb65cc2",
+        "status": true,
+        "productsCount": 0,
+        "hasChild": false
+    },
+    {
+        "_id": "60092f62b1f0ad428ba1a0c8",
+        "category_name": "Watches",
+        "parent": "60091f8765bc06327a6a2259",
+        "status": true,
+        "productsCount": 0,
+        "hasChild": true
+    },
+    {
+        "_id": "60092f87b1f0ad428ba1a0ca",
+        "category_name": "Laptops",
+        "parent": "60091f8765bc06327a6a2259",
+        "status": true,
+        "productsCount": 0,
+        "hasChild": false
+    },
+    {
+        "_id": "60092f8fb1f0ad428ba1a0cc",
+        "category_name": "Computers",
+        "parent": "60091f8765bc06327a6a2259",
+        "status": true,
+        "productsCount": 0,
+        "hasChild": false
+    },
+    {
+        "_id": "60092fc8b1f0ad428ba1a0eb",
+        "category_name": "Digital",
+        "parent": "60092f62b1f0ad428ba1a0c8",
+        "status": true,
+        "productsCount": 0,
+        "hasChild": false
+    },
+    {
+        "_id": "60092fcdb1f0ad428ba1a0ed",
+        "category_name": "Analogue",
+        "parent": "60092f62b1f0ad428ba1a0c8",
+        "status": true,
+        "productsCount": 1,
+        "hasChild": false
+    }
+]

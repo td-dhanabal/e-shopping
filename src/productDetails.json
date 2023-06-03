@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "portfolioImage": "https://rukminim1.flixcart.com/image/312/312/k5lcvbk0pkrrdj/mobile-refurbished/b/9/w/redmi-note-8-64-a-m1908c3ji-mi-4-original-imafhgpphwztnchc.jpeg?q=70",
+        "title": "Redmi8ADual(MidnightGrey,32GB)",
+        "min_price": "2000",
+        "max_price": "10000",
+        "description": "JBL, Boat & more",
+        "amount": "2000"
+    },
+    {
+        "id": 2,
+        "portfolioImage": "https://rukminim1.flixcart.com/image/312/312/k5lcvbk0pkrrdj/mobile-refurbished/b/9/w/redmi-note-8-64-a-m1908c3ji-mi-4-original-imafhgpphwztnchc.jpeg?q=70",
+        "title": "boAt Rockerz ",
+        "min_price": "4000",
+        "max_price": "20000",
+        "description": "JioFi, Huawei & more",
+        "amount": "4000"
+    },
+    {
+        "id": 3,
+        "portfolioImage": "https://rukminim1.flixcart.com/image/312/312/k5lcvbk0pkrrdj/mobile-refurbished/b/9/w/redmi-note-8-64-a-m1908c3ji-mi-4-original-imafhgpphwztnchc.jpeg?q=70",
+        "title": "BestBrands",
+        "min_price": "6000",
+        "max_price": "30000",
+        "description": "OnePlus Bullets",
+        "amount": "6000"
+    },
+    {
+        "id": 4,
+        "portfolioImage": "https://rukminim1.flixcart.com/image/312/312/k5lcvbk0pkrrdj/mobile-refurbished/b/9/w/redmi-note-8-64-a-m1908c3ji-mi-4-original-imafhgpphwztnchc.jpeg?q=70",
+        "title": "Headphones",
+        "min_price": "8000",
+        "max_price": "40000",
+        "description": "Mi, Boat & more",
+        "amount": "8000"
+    },
+    {
+        "id": 5,
+        "portfolioImage": "https://rukminim1.flixcart.com/image/312/312/k5lcvbk0pkrrdj/mobile-refurbished/b/9/w/redmi-note-8-64-a-m1908c3ji-mi-4-original-imafhgpphwztnchc.jpeg?q=70",
+        "title": "Bags",
+        "min_price": "10000",
+        "max_price": "50000",
+        "description": "Skybags, Wildcart & More",
+        "amount": "10000"
+    }
+]

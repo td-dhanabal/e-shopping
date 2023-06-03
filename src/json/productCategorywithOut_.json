@@ -1,0 +1,55 @@
+{
+    "_id": "60097e6169a6c37fed25b0a0",
+    "images": [
+        "./img/1612174137668.png"
+    ],
+    "key_points": [
+        "6 GB RAM | 32 GB ROM",
+        "17.32 cm (6.82 inch) HD+ Display",
+        "13MP + Depth Sensor | 8MP Front Camera",
+        "6000 mAh Li-ion Polymer Battery",
+        "MediaTek Helio G90 Processor"
+    ],
+    "key_words": [
+        "mobile under 17000",
+        "Samsung M31",
+        "Samsung Mobile"
+    ],
+    "sku": "BLA001",
+    "brand": "60057401ab6b8bbcca9fb4ab",
+    "category": "60092fcdb1f0ad428ba1a0ed",
+    "mrp": 20000,
+    "selling_price": 16000,
+    "tax": "600805f3f778364a3e084378",
+    "hsn_code": "234",
+    "description": "Samsung M31",
+    "status": true,
+    "specification": [
+        {
+            "title": "Ram",
+            "value": "6 GB"
+        },
+        {
+            "title": "Screen Size",
+            "value": "6.12 Inch"
+        },
+        {
+            "title": "Internal Memory",
+            "value": "128 GB"
+        },
+        {
+            "title": "OS",
+            "value": "Android "
+        }
+    ],
+    "offer": {
+        "_id": "601d10790719cd38b83e1a0c",
+        "date": "2021-02-05T08:38:56.682Z",
+        "offer": "600c092dff4f7d4e0856632e",
+        "product": "60097e6169a6c37fed25b0a0",
+        "from_date": "2021-02-04T18:30:00.000Z",
+        "to_date": "2021-02-27T18:30:00.000Z",
+        "discount_percentage": 20,
+        "__v": 0
+    }
+}
